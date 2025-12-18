@@ -2,4 +2,4 @@ a=10
 b=10
 c=a+b
 print(c)
-# print of the numbers P
+# print of the numbers
