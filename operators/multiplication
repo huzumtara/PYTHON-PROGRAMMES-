@@ -1,0 +1,5 @@
+length=50
+breadth=100
+area=length * breadth
+print(area)
+print(type(area))
