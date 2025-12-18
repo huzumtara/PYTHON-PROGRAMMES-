@@ -1,0 +1,5 @@
+#subtration of two numbers 
+input1=("enter the number")
+input2=("enter the second number")
+output=input1-input2
+print(output)
