@@ -1,36 +1,36 @@
 #string mrthods.py
-"HELLO".lower()
-"hello".upper()
+print("HELLO".lower())
+print("hello".upper())
 
-"python".capitalize()
+print("python".capitalize())
 
-"hello world".title()
+print("hello world".title())
 
-" hello ".strip()
+print(" hello ".strip())
 
-" hello".lstrip()
+print(" hello".lstrip())
 
-"hello ".rstrip()
+print("hello ".rstrip())
 
-"apple".replace("a","A")
+print("apple".replace("a","A"))
 
-"A,B,C".split()
+print("A,B,C".split())
 
-"-".join(["a,b"])
+print("-".join(["a,b"]))
 
-"apple".find("p")
+print("apple".find("p"))
 
-"apple".count("p")
+print("apple".count("p"))
 
-"apple".index("p")
+print("apple".index("p"))
 
-"python".startswith("py")
+print("python".startswith("py"))
 
-"python".endswith("on")
+print("python".endswith("on"))
 
-"123".isdigit()
+print("123".isdigit())
 
-"abc".isalpha()
+print("abc".isalpha())
 
-"12ab".isalnum()
+print("12ab".isalnum())
 
