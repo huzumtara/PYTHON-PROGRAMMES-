@@ -1,4 +1,4 @@
-# for finding factorial of the number using the while loop
+# for finding factorial of the number 
 n=4
 i=1
 result=1
